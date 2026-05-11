@@ -16,4 +16,4 @@ export MYSQL_PORT=
 export MYSQL_DB=
 export MYSQL_USER=
 export MYSQL_PASSWORD=
-export MYSQL_VERSION=9.6.0
+export MYSQL_VERSION=
